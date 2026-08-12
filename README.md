@@ -1,6 +1,6 @@
 # UK Housing Affordability & Unemployment Dashboard
 
-An interactive geospatial dashboard analysing housing affordability and labour market conditions across English local authorities, built as part of ENVS456 Assignment 2.
+An interactive geospatial dashboard analysing housing affordability and labour market conditions across English local authorities.
 
 ## Live Dashboard
 
